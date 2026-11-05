@@ -60,3 +60,11 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# Generated from project.yml by XcodeGen
+Sable.xcodeproj/
+
+# Seed inputs and output: personal statements, never committed.
+Seed/out/
+Seed/*.csv
+Seed/*.pdf
